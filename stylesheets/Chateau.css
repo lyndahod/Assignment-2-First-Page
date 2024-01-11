@@ -1,0 +1,32 @@
+
+ body {
+  background-color: dodgerblue;
+  color: white;
+  font-family: arial;
+     
+}
+main{background-color:white;
+    color: navy;
+}
+
+
+@media only screen and (min-width: 600px) {
+    body {
+    background-color:  lightskyblue; 
+        color: navy;
+        font-family: georgia;
+    }
+   
+    header {
+    background-color: dodgerblue;
+    color: snow;
+    }
+}
+
+
+/*#fdcf58	(253,207,88) gold
+#757676	(117,118,118)  grey
+#f27d0c	(242,125,12)   orange
+#8b0000	    DarkRed
+#f07f13	(240,127,19)  Dk Orange  
+#ffd480   yellow */
